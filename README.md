@@ -1,14 +1,14 @@
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer/Analista de Sistemas</h3>
 <h1 align="center">Hola 👋, soy Tomas Franchino</h1>
-<p>📚 Actualmente estoy estudiando la carrera de Ingenieria Informatica en UCSE </p>
-<p>👨🏼‍💻 Tengo conocimientos en el desarrollo Web, y me especializo en el desarrollo de C# y React. </p>
+<p>📚 Tecnico en Analisis de Sistemas, Actualmente estoy estudiando la carrera de Ingenieria Informatica en UCSE </p>
+<p>👨🏼‍💻 Tengo conocimientos en el desarrollo BackEnd, y me especializo en lenguages como C# y Java. </p>
 
 Algunas tecnologías y lenguajes que he trabajado:
 
-⚛️ HTML & CSS | JavaScript | React JS | TypeScript | Next Js | Tailwind CSS | .NET
+⚛️ HTML & CSS | JavaScript | React JS | Razor Pages | .NET | Tailwind CSS
 
-🔙 Node.JS | C#
+🔙 Java | C#
 
-💾 Mongo DB | MySQL
+💾 Mongo DB | MySQL | SQL Server
 
 🛢 Microsoft Azure | Netlify
