@@ -5,9 +5,9 @@
 
 Algunas tecnologías y lenguajes que he trabajado:
 
-⚛️ HTML & CSS | JavaScript | React JS | Next.js | Razor Pages | .NET | Tailwind CSS
+⚛️ HTML & CSS | JavaScript | React JS | Next.js | Razor Pages | Tailwind CSS
 
-🔙 Java | C# | Django | FastAPI
+🔙 Java | C# | Python | Django | FastAPI | .NET Framework
 
 💾 Mongo DB | MySQL | SQL Server | PostgreSQL 
 
